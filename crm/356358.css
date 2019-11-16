@@ -1,0 +1,109 @@
+#cnblogs_post_body h1 {
+    background: #265B8A;
+    border-radius: 6px 6px 6px 6px;
+    color: #FFFFFF;
+    font-family: FZShuTi；
+    font-size: 23px;
+    font-weight: bold;
+    height: 25px;
+    line-height: 25px;
+    margin: 18px 0 !important;
+    padding: 12px 0 8px 5px;
+    text-shadow: 2px 2px 3px #222222;
+    text-align:center;
+    margin-bottom: 20px;
+}
+#cnblogs_post_body h2 {
+background-color: #008FC6;
+    border-radius: 3px;
+    text-align:center;
+    color: white;
+    text-shadow: 1px 1px 2px #222222;
+    padding-left: 15px;
+    margin-bottom: 12px;
+}
+#cnblogs_post_body h3 {
+background-color: #51C332;
+    border-radius: 3px;
+    text-align:center;
+    color: white;
+    text-shadow: 1px 1px 2px #222222;
+    padding: 5px 15px;
+    margin-bottom: 10px;
+    width:50%
+}
+
+#cnblogs_post_body table {
+    text-align: center;
+    width: 100%;
+    border: 1px solid #dedede;
+    margin: 15px 0;
+    border-collapse: collapse;
+}
+#cnblogs_post_body table thead tr {
+    background: #f8f8f8;
+}
+#cnblogs_post_body table tbody tr:hover {
+    background: #efefef;
+}
+
+#blogTitle h1 {
+    margin-top: 0;
+    margin-bottom: 10px;
+}
+
+#blogTitle h2 {
+    margin-left: 50px;
+    margin-bottom: 10px;
+}
+
+
+#home {
+
+    background-image:  url("//i.gtimg.cn/qzone/space_item/orig/4/109876_top.jpg");
+    background-position: top center;
+    background-repeat: no-repeat;
+    background-size: 100%;
+    margin-top: 0px;
+    max-width: 950px;
+
+}
+
+code {
+    padding: 1px 3px;
+    margin: 0 3px;
+    background: #ddd;
+    border: 1px solid #ccc;
+    font-family: Menlo,Monaco,Andale Mono,lucida console,Courier New,monospace;
+    word-wrap: break-word;
+    font-size: 14px;
+}
+
+#header {
+    position: relative;
+    top: 35px;
+    left: auto;
+#    width: 950px;
+    height: 180px;
+    margin: auto;
+    border: none;
+    padding: 0;
+    background: none;
+    overflow: hidden
+}
+
+#navList a:link, #navList a:visited, #navList a:active {
+    color: #ffffffd1;
+    font-weight: bold;
+}
+
+#blogTitle h1 a {
+    color: #ededed;
+}
+
+#blogTitle h2 {
+    margin-left: 62px;
+    margin-top: 15px;
+    margin-bottom: 2px;
+    color: #ffffff94;
+}
